@@ -1,0 +1,10 @@
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

@@ -5,3 +5,10 @@ C:\Users\PrisanaPHS\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.c
 C:\Users\PrisanaPHS\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
 C:\Users\PrisanaPHS\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.dll
 C:\Users\PrisanaPHS\source\repos\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WcfService1\bin\WcfService1.dll
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

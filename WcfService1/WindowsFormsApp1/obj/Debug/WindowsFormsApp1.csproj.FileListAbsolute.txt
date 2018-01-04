@@ -1,0 +1,2 @@
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\ProjectOnGit\wcfExample\wcfExample\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
